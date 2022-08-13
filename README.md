@@ -1,2 +1,2 @@
 # clubsocial-namartinezg
-kgk
+Codigo sin terminar.
